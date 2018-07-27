@@ -1,0 +1,6 @@
+.container {
+    background: orange;
+    max-width: 480px;
+    display: flex;
+    padding: 10px;
+}

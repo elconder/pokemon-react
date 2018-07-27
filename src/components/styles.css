@@ -1,0 +1,9 @@
+.pokemon-list {
+    background: #ffd26c;
+    min-width: 40%;
+}
+
+.pokemon {
+    border: 1px solid gray;
+    height: 60px;
+}
